@@ -1,3 +1,5 @@
+---------- OS : Windows ----------
+
 1. Install python 3 and set path variable.
 2. Download and install pywin32 from [ https://sourceforge.net/projects/pywin32/files/pywin32/Build%20221/ ]
 3. Open command prompt as administrator, point to the directory where the python script is present.
